@@ -22,14 +22,22 @@
 <img src="https://img.shields.io/github/stars/t33devv/jhonmicro" />
 <img width="500" alt="Screenshot 2025-12-23 at 11 07 17 AM" src="https://github.com/user-attachments/assets/eea259b4-39c0-4b50-8287-16c8f1a95e7b" />
 
+***
+
 ### [Micro Jam Official Website](https://www.microjam.xyz/)
 <img src="https://img.shields.io/github/stars/t33devv/microjam" />
 <img width="500" alt="Screenshot 2025-12-23 at 11 12 14 AM" src="https://github.com/user-attachments/assets/e273d492-8059-4ba0-b330-16e2368cd818" />
 
+***
+
 ### [Crescendo Music](https://www.crescendomusic.live/)
 <img src="https://img.shields.io/github/stars/t33devv/crescendo" />
 
+***
+
 ### [MailPilot]()
+
+***
 
 ## How to reach me?
 send me a message at tommy@microjam.dev \
