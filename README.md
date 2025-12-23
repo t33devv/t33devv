@@ -18,26 +18,19 @@
 
 ## Main Projects
 
-### [Discord Bot - Jhon Micro](https://github.com/t33devv/jhonmicro)
+## [Discord Bot - Jhon Micro](https://github.com/t33devv/jhonmicro)
 <img src="https://img.shields.io/github/stars/t33devv/jhonmicro" />
 <img width="500" alt="Screenshot 2025-12-23 at 11 07 17 AM" src="https://github.com/user-attachments/assets/eea259b4-39c0-4b50-8287-16c8f1a95e7b" />
 
-***
+## [Crescendo Music](https://www.crescendomusic.live/)
+<img src="https://img.shields.io/github/stars/t33devv/crescendo" />
 
-### [Micro Jam Official Website](https://www.microjam.xyz/)
+## [Micro Jam Official Website](https://www.microjam.xyz/)
 <img src="https://img.shields.io/github/stars/t33devv/microjam" />
 <img width="500" alt="Screenshot 2025-12-23 at 11 12 14 AM" src="https://github.com/user-attachments/assets/e273d492-8059-4ba0-b330-16e2368cd818" />
 
-***
-
-### [Crescendo Music](https://www.crescendomusic.live/)
-<img src="https://img.shields.io/github/stars/t33devv/crescendo" />
-
-***
-
-### [MailPilot]()
-
-***
+## [MailPilot]()
+<img width="500" alt="Screenshot 2025-12-21 at 11 55 00 PM" src="https://github.com/user-attachments/assets/34183fd0-38f7-4c0b-bd6f-88d9cd089c40" />
 
 ## How to reach me?
 send me a message at tommy@microjam.dev \
