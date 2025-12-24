@@ -24,6 +24,8 @@
 
 ## [Crescendo Music](https://www.crescendomusic.live/)
 <img src="https://img.shields.io/github/stars/t33devv/crescendo" />
+<img width="500" alt="Screenshot 2025-12-24 at 9 58 11 PM" src="https://github.com/user-attachments/assets/fa4e774b-5f31-4f41-ae58-0a12ac1beb0b" />
+
 
 ## [Micro Jam Official Website](https://www.microjam.xyz/)
 <img src="https://img.shields.io/github/stars/t33devv/microjam" />
