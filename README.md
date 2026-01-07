@@ -31,6 +31,7 @@
 <img width="300" alt="Screenshot 2025-12-23 at 11 12 14 AM" src="https://github.com/user-attachments/assets/e273d492-8059-4ba0-b330-16e2368cd818" />
 
 ## [MailPilot](https://www.mailpilot.world/)
+<img src="https://img.shields.io/github/stars/t33devv/mailpilot" />
 <img width="300" alt="Screenshot 2025-12-21 at 11 55 00 PM" src="https://github.com/user-attachments/assets/34183fd0-38f7-4c0b-bd6f-88d9cd089c40" />
 
 ## How to reach me?
