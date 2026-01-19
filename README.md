@@ -2,8 +2,6 @@
 
 <p align="center">你好, I'm tommy</p>
 
-![](https://komarev.com/ghpvc/?username=t33devv&style=for-the-badge&color=red&abbreviated=true)
-
 ## Languages & Skills
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
